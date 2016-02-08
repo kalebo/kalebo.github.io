@@ -11,10 +11,13 @@ title: xzzy.xyz
 email: kalebo@xzzy.xyz
 description: Discount magic words
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://xzzy.xyz" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  kalebo
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+gems:
+  - jekyll-sitemap

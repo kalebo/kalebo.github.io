@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+menu: main
 permalink: /about/
 ---
 I am an undergraduate studying Computer Science at BYU. I enjoy learning about the world and seeing the connections between different fields and areas of study. 
